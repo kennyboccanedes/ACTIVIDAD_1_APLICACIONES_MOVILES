@@ -1,6 +1,8 @@
-name: flutter_reyes_joselyn
-description: Proyecto Flutter académico
+name: flutter_KENNY_BOCCANEDES
+description: Proyecto Flutter básico para evaluación académica
 publish_to: 'none'
+
+version: 1.0.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -11,4 +13,3 @@ dependencies:
 
 flutter:
   uses-material-design: true
-  
